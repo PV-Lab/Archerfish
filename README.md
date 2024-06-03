@@ -50,7 +50,7 @@ Detailed CAD Model of the Archerfish System.
 Rendering of the User Interface Box.
 
 ### [6] Archerfish_render_complete_R2.png
-rendering of the whole Archerfish System.
+Rendering of the whole Archerfish System.
 
 ### [7] Junction_nozzle_mixing_R2.png
 Rendering of the Junction and Nozzle assembly. 
