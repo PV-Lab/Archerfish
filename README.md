@@ -1,4 +1,4 @@
-# \#Archerfish_Paper
+# \#Archerfish
 **Project Name:** \#Archerfish
 
 **Project Leads:** Aleks Siemenn \<<asiemenn@mit.edu>\>
