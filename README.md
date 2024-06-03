@@ -1,7 +1,7 @@
 # \#Archerfish
 **Project Name:** \#Archerfish
 
-**Project Leads:** Aleks Siemenn \<<asiemenn@mit.edu>\>
+**Project Lead:** Aleks Siemenn \<<asiemenn@mit.edu>\>
 
 **Collaborators:** Jim Serdy, Basita Das, Eunice Aissi, Tonio Buonassisi
 
