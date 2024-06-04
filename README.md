@@ -1,4 +1,7 @@
 # \#Archerfish
+
+![Archerfish](./renderings/Archerfish_Render.png)
+
 **Project Name:** \#Archerfish
 
 **Project Lead:** Aleks Siemenn \<<asiemenn@mit.edu>\>
