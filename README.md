@@ -14,7 +14,7 @@
 ### [1] Archerfish BOM.xlxs
 Detailed Bill of Materials for the Archerfish System. 
 
-### [2] 2_Motor_Step_Arduino.ino
+### [2] 2_Motor_Step_Arduino/2_Motor_Step_Arduino.ino
 Simple Arduino Mega gradient printing code for two 28BYJ-48 5V Stepper Motors with ULN2003 Drivers. This code drives both syringes in the archerfish system to create a gradient of droplets. 
 
 ### [3] Raster_R5_MP.gcode
@@ -26,12 +26,12 @@ Detailed CAD Model of the Archerfish System.
 ### [5] Archerfish_UI_Box.png
 Rendering of the User Interface Box.
 
-### [6] Archerfish_render_complete_R2.png
+### [6] renderings/Archerfish_Render.png
 Rendering of the whole Archerfish System.
 
-### [7] Junction_nozzle_mixing_R2.png
+### [7] renderings/Junction_nozzle_mixing_R1.png
 Rendering of the Junction and Nozzle assembly. 
 
-### [8] Syringe_pump_construction_R2.png
+### [8] renderings/Syringe_pump_construction_R2.png
 Rendering of the Syringe Pumps.  
 
