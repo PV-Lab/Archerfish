@@ -35,3 +35,6 @@ Rendering of the Junction and Nozzle assembly.
 ### [8] renderings/Syringe_pump_construction_R2.png
 Rendering of the Syringe Pumps.  
 
+### [9] /data
+The folder contains the paper's relevant hyperspectral, EDS, and profilometry data.
+
