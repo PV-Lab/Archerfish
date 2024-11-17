@@ -15,10 +15,10 @@
 Detailed Bill of Materials for the Archerfish System. 
 
 ### [2] 2_Motor_Step_Arduino/2_Motor_Step_Arduino.ino
-Simple Arduino Mega gradient printing code for two 28BYJ-48 5V Stepper Motors with ULN2003 Drivers. This code drives both syringes in the archerfish system to create a gradient of droplets. 
+Simple Arduino Mega gradient printing code for two 28BYJ-48 5V Stepper Motors with ULN2003 Drivers. This code drives both syringes in the archerfish system to create a gradient of droplets. Package version AccelStepper >= 1.64 and Arudino IDE >= 2.2.1 were used to develop this code.
 
 ### [3] Raster_R5_MP.gcode
-G-code for a Monoprice MP Select Mini 3D Printer to raster the gradient printed by the Archerfish system on a 100mm x 100mm polyester sheet. 
+G-code for a Monoprice MP Select Mini 3D Printer to raster the gradient printed by the Archerfish system on a 100mm x 100mm polyester sheet. Marlin-flavor G-code is used to develop this code.
 
 ### [4] Archerfish.step
 Detailed CAD Model of the Archerfish System. Open-access CAD model of the complete Archerfish assembly can also be found on [GrabCAD](https://grabcad.com/library/archerfish-1)
