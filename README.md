@@ -21,7 +21,7 @@ Simple Arduino Mega gradient printing code for two 28BYJ-48 5V Stepper Motors wi
 G-code for a Monoprice MP Select Mini 3D Printer to raster the gradient printed by the Archerfish system on a 100mm x 100mm polyester sheet. 
 
 ### [4] Archerfish.step
-Detailed CAD Model of the Archerfish System. 
+Detailed CAD Model of the Archerfish System. Open-access CAD model of the complete Archerfish assembly can also be found on [GrabCAD](https://grabcad.com/library/archerfish-1)
 
 ### [5] Archerfish_UI_Box.png
 Rendering of the User Interface Box.
