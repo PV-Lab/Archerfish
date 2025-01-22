@@ -14,30 +14,24 @@
 ### [1] Archerfish BOM.xlxs
 Detailed Bill of Materials for the Archerfish System. 
 
-### [2] Code/Microcontroller Syringe Pump Code/Microcontroller-Syringe-Pump-Code.ino
+### [2] /Code/Microcontroller Syringe Pump Code/Microcontroller-Syringe-Pump-Code.ino
 Simple Arduino Mega gradient printing code for two 28BYJ-48 5V Stepper Motors with ULN2003 Drivers. This code drives both syringes in the archerfish system to create a gradient of droplets. Package version AccelStepper >= 1.64 and Arudino IDE >= 2.2.1 were used to develop this code.
 
-### [3] Code/Printer G-code/Raster Pattern.gcode
+### [3] /Code/Printer G-code/Raster Pattern.gcode
 G-code for a Monoprice MP Select Mini 3D Printer to raster the gradient printed by the Archerfish system on a 100mm x 100mm polyester sheet. Marlin-flavor G-code is used to develop this code.
 
-### [4] Code/Script to Update G-code/Update_gcode.ipynb
+### [4] /Code/Script to Update G-code/Update_gcode.ipynb
 Python notebook script to update an existing g-code file to the dimensions of any 3D printer bed size.
 
-### [4] CAD/Full Archerfish System Assembly.zip
+### [5] /CAD/Full Archerfish System Assembly.zip
 Detailed CAD Model of the Archerfish System. Open-access CAD model of the complete Archerfish assembly can also be found on [GrabCAD](https://grabcad.com/library/archerfish-1). Included in this folder are the Solidworks files and 3D-printable STL files for all custom components.
 
-### [5] Archerfish_UI_Box.png
-Rendering of the User Interface Box.
+### [6] /CAD/Droplet Generator and Junction
+Contains all Solidworks part files and 3D-printable STL files to reproduce the droplet generation and junction assembly.
 
-### [6] renderings/Archerfish_Render.png
-Rendering of the whole Archerfish System.
+### [7] /CAD/Syringe Pump
+Contains all Solidworks part files and 3D-printable STL files to reproduce the syringe pump holder assembly.
 
-### [7] renderings/Junction_nozzle_mixing_R1.png
-Rendering of the Junction and Nozzle assembly. 
-
-### [8] renderings/Syringe_pump_construction_R2.png
-Rendering of the Syringe Pumps.  
-
-### [9] /data
+### [8] /data
 The folder contains the paper's relevant hyperspectral, EDS, and profilometry data.
 
